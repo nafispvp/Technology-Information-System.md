@@ -18,4 +18,4 @@ Improvement
 - Create a more strategic stall management at a wider place for instance, outside UTMDigital because many stalls are hidden and not many audience notice some hidden stalls.
 - 
 
-This is our vlog about this industrial visit: [🎥video](https://youtu.be/sYgdaEgtzuI)
+This is our vlog about this industrial visit -> [🎥video](https://youtu.be/sYgdaEgtzuI)
