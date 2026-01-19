@@ -1,8 +1,8 @@
 # UTM Digital Open Day
 About
 ---
-Date : 
-Venue : 
+Date : <br>
+Venue : <br>
 
 Summary
 ---
