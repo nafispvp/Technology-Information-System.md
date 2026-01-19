@@ -16,5 +16,5 @@ Reflection
 ---
 <br>
 
-Here is our newsletter about Johor Port : [📰newsletter](https://github.com/nafispvp/Technology-Information-System.md/blob/main/ASG%204%20Newsletter.pdf)
+Click [here](https://drive.google.com/drive/folders/1HZdjAW7e5SCFLMWUOD0CbxL4SQK8jXCO) to view my design thinking project assessments!
 
