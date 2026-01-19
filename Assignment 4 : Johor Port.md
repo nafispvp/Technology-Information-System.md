@@ -16,4 +16,4 @@ Reflection
 ---
 <br>
 
-Here is our academic writing about Technology Information & System Development : [📝academic writing](https://github.com/nafispvp/Technology-Information-System.md/blob/main/ASG%203%20Academic%20Writing.pdf)
+Here is our newsletter about Johor Port : [newsletter](https://github.com/nafispvp/Technology-Information-System.md/blob/main/ASG%204%20Newsletter.pdf)
