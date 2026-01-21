@@ -22,3 +22,6 @@ Ts. Hj Abdul Alim explains about the importance of System Development Life Cycle
 ### 🪞Reflection
 This talk opened my mind about how important it is to learn and remember all the subjects since it will be reused in working life. Most likely handling a project requires problem-solving skills.<br>
 
+---
+
+‼️This is our academic writing on Project Management & System Development -> [📄academic writing](https://github.com/nafispvp/Technology-Information-System.md/blob/main/ASG%203%20Academic%20Writing.pdf)
