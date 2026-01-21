@@ -25,7 +25,7 @@ She briefly explained about the services and facilities served by UTM Digital. U
 ---
 
 ### 🪞Reflection
-- It was a great experience to get to understand deeper on technologies. It surely can be used as a tools for better future and solving more problems.
+It was a great experience to get to understand deeper on technologies. It surely can be used as a tools for better future and solving more problems.
 
 ---
 
