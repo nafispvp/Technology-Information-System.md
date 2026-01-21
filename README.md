@@ -9,7 +9,7 @@ Technology and Information System is a subject that introduces the role of infor
 # 🪞Reflection
 This subject improved my awareness of how technology, people, and processes work together in an information system. It also helped me develop a broader perspective on the responsibilities of IT professionals, including issues related to security, ethics, and system management. Overall, Technology and Information System has enhanced my understanding of the practical impact of technology and prepared me for future courses and careers in the IT field.
 
-# Assessment
+# ☑️Assessments
 - [Assignment 1](https://github.com/nafispvp/Technology-Information-System.md/blob/main/Assignment%201%20%3A%20UTM%20Digital.md)
 - [Assignment 2](https://github.com/nafispvp/Technology-Information-System.md/blob/main/Assignment%202%20%3A%20PPG.md)
 - [Assignment 3](https://github.com/nafispvp/Technology-Information-System.md/blob/main/Assignment%203%20%3A%20Project%20Management%20%26%20System%20Development.md)
