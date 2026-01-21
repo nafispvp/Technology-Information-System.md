@@ -24,5 +24,5 @@ This PC assembly session increased my understanding of computer hardware and how
 
 ---
 
-‼️Here is our academic writing about Technology Information & System Development : [📝academic writing](https://github.com/nafispvp/Technology-Information-System.md/blob/main/ASG%203%20Academic%20Writing.pdf)
+![6307800713253294104](https://github.com/user-attachments/assets/d71bcb7e-0a08-4195-80fc-8c1e51d5c61c)
 
