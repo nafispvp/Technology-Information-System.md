@@ -22,7 +22,3 @@ I attended a PC assembly session where I learned about the basic components of a
 ### 🪞Reflection
 This PC assembly session increased my understanding of computer hardware and how different components work together. It helped me gain confidence in handling computer parts and improved my technical knowledge, which is useful for my studies in computer science.<br>
 
----
-
-![6307800713253294104](https://github.com/user-attachments/assets/d71bcb7e-0a08-4195-80fc-8c1e51d5c61c)
-
