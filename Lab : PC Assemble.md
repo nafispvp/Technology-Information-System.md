@@ -1,20 +1,28 @@
-# Technology Information & System Development
-About
----
-**Date** : <br>
-**Venue** : <br>
+## PC Assemble
 
-Summary
 ---
-<br>
 
-Improvement Suggestions
+### ❓About
+**Date** : 11 November 2025<br>
+**Venue** : N28, UTM<br>
+
 ---
-<br>
 
-Reflection
+### 📝Summary
+I attended a PC assembly session where I learned about the basic components of a computer such as the motherboard, CPU, RAM, power supply, storage, and casing. The session demonstrated how to properly install each component and explained their functions. I also learned basic safety precautions and the correct sequence for assembling a PC.<br>
+
 ---
-<br>
 
-Here is our academic writing about Technology Information & System Development : [📝academic writing](https://github.com/nafispvp/Technology-Information-System.md/blob/main/ASG%203%20Academic%20Writing.pdf)
+### 🛠️Improvement Suggestions
+- The session could be improved by allowing more hands-on practice so participants can assemble the PC themselves.
+- Providing a step-by-step guide or checklist would help participants better understand and remember the assembly process.<br>
+
+---
+
+### 🪞Reflection
+This PC assembly session increased my understanding of computer hardware and how different components work together. It helped me gain confidence in handling computer parts and improved my technical knowledge, which is useful for my studies in computer science.<br>
+
+---
+
+‼️Here is our academic writing about Technology Information & System Development : [📝academic writing](https://github.com/nafispvp/Technology-Information-System.md/blob/main/ASG%203%20Academic%20Writing.pdf)
 
