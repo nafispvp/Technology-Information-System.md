@@ -4,7 +4,7 @@
 
 ### ❓About
 **Date** : 28 October 2025<br>
-**Venue** : <br>
+**Venue** : UTM Digital<br>
 
 ---
 
